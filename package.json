@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "clear && tsc && node dist/index"
+    "start": "clear; cls && tsc && node dist/index"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "child_process": "^1.0.2",
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "typescript": "^5.7.3"
   }
 }
