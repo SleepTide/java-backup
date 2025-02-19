@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "clear; cls && tsc && node dist/index"
+    "start": "clear; cls; tsc && node dist/index"
   },
   "keywords": [],
   "author": "",
