@@ -1,10 +1,10 @@
 const config = {
-    serverDirectory: "/root/server/",
-    backupDirectory: "/root/server/backups",
-    worldName: "world",
-    backupTime: 90,
+    serverDirectory: "",
+    backupDirectory: "",
+    worldName: "",
+    backupTime: 60,
     backupOnStart: true,
-    debugging: true
+    debugging: false
 };
 
 export default config;
