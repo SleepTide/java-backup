@@ -1,0 +1,19 @@
+{
+  "name": "system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "clear && tsc && node dist/index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.5.5"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "colors": "^1.4.0"
+  }
+}
